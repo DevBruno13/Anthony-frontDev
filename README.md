@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anthony-backDev
-- 👀 I’m interested in Backend Development and Web Development
+- 👋 Hi, I’m Anthony!
+- 👀 I’m interested in Games & Web Development
 
 <!---
 Anthony-frontDev/Anthony-frontDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
