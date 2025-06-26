@@ -2,19 +2,11 @@
 
 ###
 
-<p align="left">My name is Bruno and I'm a Web Developer, from Brazil!</p>
+<p align="left">My name is Bruno and I'm a Web Developer & Designer, from Brazil.</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Node.js and Next.js<br>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages, Frameworks & Tools I use</h2>
 
 ###
 
